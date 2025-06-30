@@ -1,0 +1,10 @@
+{
+    "import": {
+        "dmiExportPath": "/bronze/dmi",
+        "frostExportPath": "/bronze/frost"
+    },
+    "export" : {
+        "dmiDeltaPath": "/silver",
+        "frostDeltaPath": "/silver"
+    }
+}
