@@ -5,6 +5,10 @@
     },
     "export" : {
         "dmiDeltaPath": "/silver",
-        "frostDeltaPath": "/silver"
+        "frostDeltaPath": "/silver",
+        "dmiDeltaPathWr": "/silver/weather_readings_dmi/", 
+        "frostDeltaPathWr": "/silver/weather_readings_frost/", 
+        "dmiDeltaPathStation": "/silver/station_table_dmi/", 
+        "frostDeltaPathStation": "/silver/station_table_frost/" 
     }
 }
