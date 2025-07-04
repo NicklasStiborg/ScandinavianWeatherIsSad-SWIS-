@@ -13,7 +13,7 @@ To getting started it is suggested to:
 + **Create a working directory (folder) (required)**
 + **Open terminal/cmd** \
 Go into directory using `cd <path to folder>` and then use `git clone https://github.com/NicklasStiborg/ScandinavianWeatherIsSad-SWIS-` (optional, can be downloaded as zip instead)
-+ **Creating virtual environment (optional)** 
++ **Creating virtual environment (optional)**  \
 `python3 -m venv .venv`
 + **Activate the virtual environment (optional)** \
 Mac/Linux: `source .venv/bin/activate` \
